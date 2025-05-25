@@ -1,2 +1,0 @@
-# MonsterAnimationAdding
-MonsterAnimationAdding
